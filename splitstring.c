@@ -1,5 +1,4 @@
 #include "main.h"
-#include <stdbool.h>
 
 /**
  * isSpace - determines if char is a space
@@ -8,7 +7,7 @@
  */
 _Bool isSpace(char c)
 {
-        return (c == ' ');
+	return (c == ' ');
 }
 
 /**
