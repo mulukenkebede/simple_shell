@@ -1,21 +1,21 @@
 # a simple shell project as a part of low level programming @ alx
+the peears who are contribution to the simple shell project are
+MULUKEN kebede <mule.andisew@gmail.com>
+Huguette Ebu <yadidmishkan@gmail.com>
+
 the project is about creating a simple shell (simple UNIX command interpreter)
 the project includes the following contents
-- Write a beautiful code that passes the Betty checks
-- Display a prompt and wait for the user to type a command
-- accept command lines with arguments
-- handle PATH
-- implement the exit built-in
-- implement the env- built-in
-- write own getline function
-- handle arguments for the built-in exit
-- implement he setenv and unsetenv builtin commands
-- implement the builtin command cd:
-- handle Handle the commands separator 
-- handle the && and || shell logical operators
-- implement the alias builtin command
-- Handle variables replacement
-- handle the comment (#)
-- handle file as an input
- 
-
+Write a beautiful code that passes the Betty checks
+display a prompt and wait for the user to type a command
+accept command lines with arguments
+handlePATH
+implemet the exit builtin
+implement env
+write own getline function
+arguments for the builtin exit
+implementsetenv and unsetenv builtin commands
+implemet the builtin command cd
+Handle the commands separator
+the && and || shell logical operators
+implement the alias builtin command
+handle variables replacement
